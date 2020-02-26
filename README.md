@@ -2,7 +2,7 @@
 
 This code is used to detect nodules in a lung CT scan and subsequently to classify them as being benign, malignant. This project utilizes a network of U-Net architecture with an accuracy of 90.
 
-# Dataset: LUNA 16
+# Dataset
 
 https://luna16.grand-challenge.org
 
