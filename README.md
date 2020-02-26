@@ -10,7 +10,5 @@ https://luna16.grand-challenge.org
 # Repository 
 
 data_prep : prepare the LUNA16 dataset for training
-
 train_codes : train the network
-
-Plots : evaluate the network and also the dice plots
+Plots : evaluate the network
